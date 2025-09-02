@@ -1,4 +1,4 @@
-namespace Factory
+namespace Factory.KitchenTools
 {
     // Represents a spoon kitchen tool.
     public class Spoon : KitchenTool

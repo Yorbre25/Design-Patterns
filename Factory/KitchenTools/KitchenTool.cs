@@ -1,4 +1,4 @@
-namespace Factory
+namespace Factory.KitchenTools
 {
     // Abstract base class for all kitchen tools.
     public abstract class KitchenTool

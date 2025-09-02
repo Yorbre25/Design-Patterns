@@ -1,4 +1,4 @@
-// Example: Difference between creating objects directly and using the Factory Method pattern
+﻿// Example: Difference between creating objects directly and using the Factory Method pattern
 using Factory.Creators;
 using Factory.KitchenTools;
 

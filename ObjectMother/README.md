@@ -1,0 +1,2 @@
+
+The Object Mother Pattern is a design pattern used in Java to simplify the creation of objects with specific configurations, especially for testing. Instead of manually constructing objects with varying properties for each test case, you create a dedicated "Object Mother" class or method that produces these objects with predefined settings

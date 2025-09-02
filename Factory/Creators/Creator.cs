@@ -1,4 +1,6 @@
-namespace Factory
+using Factory.KitchenTools;
+
+namespace Factory.Creators
 {
     public abstract class Creator
     {

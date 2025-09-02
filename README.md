@@ -7,5 +7,4 @@ Implemented patterns:
 
 Todo:
 - Strategy
-- Factory
-- ObjectMother
+- Abstract Factory
